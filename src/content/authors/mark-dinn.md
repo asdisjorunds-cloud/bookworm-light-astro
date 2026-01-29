@@ -1,12 +1,11 @@
 ---
-title: Mark Dinn
+title: Ásdís
 meta_title: ""
-image: /images/authors/mark-dinn.jpg
+image: media/public/images/asdis_jorundsdottir_svhv_b.jpeg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/mark
   linkedin: https://www.linkedin.com/mark
   youtube: https://youtube.com/mark
 ---
-
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+A product design graduate and web manager, currently studying Entrepreneurship and Innovation at Reykjavík University. This blog documents my learning process throughout the course.
